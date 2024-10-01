@@ -23,3 +23,9 @@ We add a remote control
 
 
 ![Screenshot_3](https://github.com/user-attachments/assets/70caa4e8-84da-494f-ae44-4c0763c54582)
+
+
+-------------------------
+We raise the payload
+
+![Screenshot_4](https://github.com/user-attachments/assets/8bee9d0f-828b-4434-954a-23ba501f912d)
