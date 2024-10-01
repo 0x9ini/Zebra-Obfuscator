@@ -6,4 +6,5 @@ Once the file is downloaded, the Files window will appear. You should extract th
 -------------------------
 If the file icon opens like this
 Know that you are with us, and if something else happens, know that you have a problem and there is a solution for you
+
 ![Screenshot_1](https://github.com/user-attachments/assets/a1363131-21cf-45f5-91a1-a692308c1a5d)
