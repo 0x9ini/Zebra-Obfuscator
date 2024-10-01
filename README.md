@@ -3,3 +3,7 @@ Once the file is downloaded, the Files window will appear. You should extract th
 
 ![Screenshot_1](https://github.com/user-attachments/assets/09164121-0344-446d-ab19-138259d80a45)
 
+-------------------------
+If the file icon opens like this
+Know that you are with us, and if something else happens, know that you have a problem and there is a solution for you
+![Screenshot_1](https://github.com/user-attachments/assets/a1363131-21cf-45f5-91a1-a692308c1a5d)
