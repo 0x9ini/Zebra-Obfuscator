@@ -15,3 +15,11 @@ Then you can encrypt the bat file and leave it completely encrypted with
 SpyderCrypter will encrypt your file completely
 
 ![Screenshot_2](https://github.com/user-attachments/assets/8e90fa62-4b87-4a64-8ae9-dda7a601606f)
+
+
+-------------------------
+
+We add a remote control
+
+
+![Screenshot_3](https://github.com/user-attachments/assets/70caa4e8-84da-494f-ae44-4c0763c54582)
