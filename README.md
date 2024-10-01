@@ -45,3 +45,10 @@ We raise the payload
 No problem, follow the solution for the encrypted payload
 
 ![image (3)](https://github.com/user-attachments/assets/7332e1c2-ffd3-4abb-82f6-edf8014facc0)
+
+
+-------------------------
+
+I have to contact Spider Carburetor to get full encryption
+
+![Screenshot_1](https://github.com/user-attachments/assets/6aded4b3-e100-4114-a4b9-72d5649985f0)
